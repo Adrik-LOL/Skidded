@@ -1,0 +1,11 @@
+Name malware: LINUX AURORE
+DANGEROUS LEVEL:10/10
+TIME: 4 MOIS 
+CREATOR: HACKBOU
+COMPATIBILITÉ: WINDOWS 10
+
+Inspired by: No escape (enderman)
+
+Lancer en administrateur et sur windows 10 et en MACHINE VIRTUELLE
+
+BON TESTE!
